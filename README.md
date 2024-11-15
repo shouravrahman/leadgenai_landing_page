@@ -18,7 +18,7 @@ Welcome to the **LeadGenAI** landing page repository! This project is a modern, 
 
 ## 📸 Demo
 
-Check out a live demo of the LeadGenAI landing page (add link here).
+Check out a live demo of the LeadGenAI landing page [(link)](https://leadgenaipro.netlify.app/).
 
 ---
 
@@ -59,7 +59,7 @@ To get started with LeadGenAI, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/leadgenai-landing-page.git
+   git clone https://github.com/shouravrahman/leadgenai-landing-page.git
    cd leadgenai-landing-page
    ```
 
