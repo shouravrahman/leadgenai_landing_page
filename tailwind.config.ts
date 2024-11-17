@@ -35,7 +35,7 @@ export default {
         '5xl': '2.5rem',
       },
       colors: ({ colors }) => ({
-        gray: colors.blue,
+        gray: colors.violet,
       }),
       fontFamily: {
         sans: 'var(--font-inter)',
